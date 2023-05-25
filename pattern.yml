@@ -13,10 +13,10 @@ lifecycle:
     commands:
     - bash lifecycle/upgrade.sh
 metadata:
-  organisation-id: onp
+  organisation-id: CBA
   pattern-categories:
   - Governance
-  pattern-description: NoSQL
-  pattern-id: onp.AnotherName
-  pattern-name: AnotherName
-  pattern-version: '1.0'
+  pattern-description: This is a Level 2 Blue Print for Compute EC2 (Internal Facing) and captures the coupling of the native AWS services such EC2, ASG, ELB with CBA controls and customizations. This blueprint can be a building block to form Level 3 patterns for application workloads.
+  pattern-id: onp.cba.
+  pattern-name: EC2Blueprint
+  pattern-version: '0.1'
