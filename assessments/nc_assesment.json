@@ -2,7 +2,7 @@
     "Assesments": [
         {
             "AssesmentId": "ncr-001",
-            "AssesmentSummary": "All resources should have the data classification specified",
+            "AssesmentSummary": "BluePrint Type specified",
             "AssesmentDescription": "Each system that either used to store or used to flow through data should have a clear indication of the data classification",
             "AssesmentStrategy": "Assesment is conducted by assessing the tags in the resource",
             "AssesmentStatus": "PASSED"
