@@ -17,6 +17,6 @@ metadata:
   pattern-categories:
   - Governance
   pattern-description: NoSQL
-  pattern-id: onp.AnotherName
-  pattern-name: AnotherName
+  pattern-id: onp.SAP.Application
+  pattern-name: SAP Application
   pattern-version: '1.0'
